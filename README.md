@@ -24,7 +24,7 @@ You need following software and versions to use scripts.
 
 ## More details about scripts
 
-You can visit my blog for [alerting virtual machines with empty descriptions](https://vmbro.com/) and more detailed information.
+You can visit my blog for [alerting virtual machines with empty descriptions](https://vmbro.com/vmware-powercli-ve-slack-alarmlari-2-vm-descriptions/) and more detailed information.
 
 
 ## License
