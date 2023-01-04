@@ -32,7 +32,7 @@ function sendSlack {
     }
     Invoke-RestMethod -uri $uriSlack -Method Post -body $slackBody -ContentType 'application/json' | Out-Null
     write-host "You can check your Slack"
-    & "$PSScriptRoot\noDescriptionVMs.py" $location, $vmNames, $jiraProjectKey, $jiraUsername, $jiraToken, $jiraURL
+    & "$PSScriptRoot\create_issues.py" $location, $vmNames, $jiraProjectKey, $jiraUsername, $jiraToken, $jiraURL
 }
 
 Connect-VIServer -Server $vcenter -User $user -Password $password | out-null
