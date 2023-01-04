@@ -18,7 +18,9 @@ You need following software and versions to use scripts.
 ```
 ## Example
 
+![image-17-600x203](https://user-images.githubusercontent.com/6716206/210629260-50ab98c6-295c-4dee-a1a4-1633d921b46c.png)
 
+![image-18-1536x595](https://user-images.githubusercontent.com/6716206/210629273-cfa56182-8eb1-4e7f-a0e4-b8a8e93e20f9.png)
 
 ## More details about scripts
 
